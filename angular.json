@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "bike-ui"
+  "defaultProject": "bike-ui",
+  "cli": {
+    "packageManager": "yarn"
+  }
 }
